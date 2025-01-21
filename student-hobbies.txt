@@ -1,3 +1,5 @@
+soccer (1.aaomarel)
+chess (1.aaomarel)
 video gaming (1.bwoods2, 2.d_phiansin)
 biking (1.d_phiansin)
 puzzles (1.sentini)
